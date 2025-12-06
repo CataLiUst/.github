@@ -45,7 +45,7 @@ Please cite the associated publications when using data or models.
 
 
 [^Hamada14]: I. Hamada. van der Waals density functional made accurate. [*Phys. Rev. B* **2014**, *89*, 121103(R)](https://doi.org/10.1103/PhysRevB.89.121103).
-[^EquiformerV2]: Y.-L. Lioa, B. Wood, A. Das, and T. Smidt. EquiformerV2: Improved equivariant transformer for scaling
+[^EquiformerV2]: Y.-L. Liao, B. Wood, A. Das, and T. Smidt. EquiformerV2: Improved equivariant transformer for scaling
 to higher-degree representations. [*ICLR* **2024**](https://openreview.net/forum?id=mCOBKZmrzD)
 
 
